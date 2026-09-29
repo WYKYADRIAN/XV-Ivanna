@@ -1,0 +1,13 @@
+.portada {
+    min-height: 100vh;
+
+    background-image:
+        url("img/portada.jpg");
+
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
