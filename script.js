@@ -1,4 +1,4 @@
-const fechaEvento = new Date("November 15, 2026 17:00:00").getTime();
+const fechaEvento = new Date("December 15, 2026 17:00:00").getTime();
 
 const contador = setInterval(function () {
 
